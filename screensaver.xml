@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Screen>
-  <Image>https://johnathandavis914.github.io/fanvil-screensaver/welcome.png</Image>
-</Screen>
+<DeviceConfiguration version="1">
+  <device>
+    <picture>
+      <pictureURL>https://raw.githubusercontent.com/johnathandavis914/fanvil-screensaver/main/w05109-small-compressed.png</pictureURL>
+    </picture>
+  </device>
+</DeviceConfiguration>
